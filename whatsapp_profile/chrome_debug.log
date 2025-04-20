@@ -1,0 +1,13 @@
+[4343:51870:0418/121808.394120:INFO:chrome_browser_cloud_management_controller.cc(202)] No machine level policy manager exists.
+[4343:51870:0418/121812.107666:INFO:CONSOLE(152)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yw/r/LjA0GUb3Vmo.js (152)
+[4343:51870:0418/121818.914892:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:265059
+[4343:51870:0418/121819.371204:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:883094
+[4343:51870:0418/121820.156414:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:2200227
+[4343:51870:0418/121820.265407:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:45148
+[4343:51870:0418/121821.381033:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:2992963
+[4343:51870:0418/121822.112941:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:5152
+[4343:51870:0418/121822.313897:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:4680
+[4343:51870:0418/121822.507490:WARNING:download_manager_impl.cc(701)] A download with the same GUID already exists, the new request is ignored.
+[4343:51870:0418/121822.696228:WARNING:download_manager_impl.cc(701)] A download with the same GUID already exists, the new request is ignored.
+[4343:51870:0418/121822.719046:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:118577
+[4343:51870:0418/121823.258982:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:2747169
